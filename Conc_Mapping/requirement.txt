@@ -1,0 +1,7 @@
+pandas
+matplotlib
+numpy
+openpyxl
+keplergl
+geopandas
+pyodbc

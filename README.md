@@ -1,0 +1,3 @@
+Figured that I go back and dig up some stuff that I got paid to do while doing research during the summer which involved a bit of GIS and data science. All the other codebases that I worked on were confidential/private repos so I could only share what I could. Although I can say that the other repos/projects involved some tools and languages such as embedded C, Arduino/Jackrabbit boards, mass flow controllers, GC/MS data, and more data science. The research was conducted by UC Riverside and Caltrans.
+
+I also did a small computer vision project during the research if you would like to check it out right [here](https://github.com/jasonchu-dev/Vehicle_Tracker_-_Counter.git).

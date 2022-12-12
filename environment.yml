@@ -1,0 +1,11 @@
+name: <name of your conda env>
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
+  - openpyxl
+  - keplergl
+  - geopandas
